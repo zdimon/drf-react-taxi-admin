@@ -1,0 +1,2 @@
+cd example/client
+npm run start

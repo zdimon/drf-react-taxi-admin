@@ -1,0 +1,6 @@
+yarn install
+yarn build
+cd example/client
+yarn install
+yarn build
+npm run start
